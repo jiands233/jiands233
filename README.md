@@ -16,8 +16,8 @@ Currently into personal agents, browser tools, and long-context LLM experiments.
 
 <a href="https://ghfind.com/u/jiands233?ref=badge">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/jiands233?theme=dark&lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/jiands233?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/jiands233?variant=radar&theme=dark" />
+    <img src="https://ghfind.com/api/card/mini/jiands233?variant=radar&theme=light" alt="GitHub Roast 评分卡" width="440" />
   </picture>
 </a>
 
