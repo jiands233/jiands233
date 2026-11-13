@@ -14,6 +14,13 @@ Currently into personal agents, browser tools, and long-context LLM experiments.
 - [bilidown-mac](https://github.com/jiands233/bilidown-mac) / [youtubedown-mac](https://github.com/jiands233/youtubedown-mac) · local video download workflows for macOS
 - [macos-controller-media-remote](https://github.com/jiands233/macos-controller-media-remote) · use a DualSense or Xbox controller as a Mac media remote
 
+<a href="https://ghfind.com/u/jiands233?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/jiands233?theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/jiands233?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
+
 **Elsewhere**
 
 [ottoshi.com](https://ottoshi.com) · [jiands233@gmail.com](mailto:jiands233@gmail.com)
