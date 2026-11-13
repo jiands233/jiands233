@@ -1,24 +1,19 @@
-<div align="center">
+### Otto Shi
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&amp;weight=700&amp;size=26&amp;duration=3000&amp;pause=100000&amp;color=0078D7&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=70&amp;lines=Hi%2C+I%27m+Otto.+AI+Product+Builder." alt="Hi, I'm Otto. AI Product Builder." />
+Building AI agents and small tools that people actually use.
+把想法做成能用的东西。
 
-  <p>
-    👋 <strong>I'm currently focused on AI agents &amp; useful everyday tools.</strong>
-  </p>
+Econ undergrad at Henan University (Sino-German program), learning by shipping.
+Currently into personal agents, browser tools, and long-context LLM experiments.
 
-  <p>从真实问题出发，把想法做成能用的产品。</p>
+**Things I've made**
 
-  <p>
-    <code>🎓 Henan University · 2025–2029</code>
-    <code>🌱 Founder of OttoBase</code>
-  </p>
+- [tab-tidy](https://github.com/jiands233/tab-tidy) · AI tab organizer for Chrome, Manifest V3 + DeepSeek
+- [hongloumeng-experiment](https://github.com/jiands233/hongloumeng-experiment) · continuing 红楼梦 with LLMs from a frozen 80-chapter corpus and traceable evidence
+- [IS-LM-Interactive-Model](https://github.com/jiands233/IS-LM-Interactive-Model-macroeconomics) · an interactive macroeconomics simulator
+- [bilidown-mac](https://github.com/jiands233/bilidown-mac) / [youtubedown-mac](https://github.com/jiands233/youtubedown-mac) · local video download workflows for macOS
+- [macos-controller-media-remote](https://github.com/jiands233/macos-controller-media-remote) · use a DualSense or Xbox controller as a Mac media remote
 
-  <p>
-    <a href="https://ottobase.cn">OttoBase ↗</a>
-    &nbsp;·&nbsp;
-    <a href="mailto:jiands233@gmail.com">Email ↗</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/jiands233?tab=repositories">Projects ↗</a>
-  </p>
+**Elsewhere**
 
-</div>
+[ottoshi.com](https://ottoshi.com) · [jiands233@gmail.com](mailto:jiands233@gmail.com)
